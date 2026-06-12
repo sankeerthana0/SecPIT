@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Security Cockpit",
+  "description": "An AI-powered real-time security threat detection platform featuring simulated event-driven Kafka logs processing, signature rules, ML-based anomalies, and intelligent incident analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
